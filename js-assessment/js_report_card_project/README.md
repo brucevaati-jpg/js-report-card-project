@@ -1,6 +1,7 @@
 ## Class Report Card Generator
 
-**Author:** [Your Full Name]
+**Author:** [BRUCE MUSAU
+]
 
 ## What It Does
 This program prints a report card for each student in a class and then shows a summary for the whole class[cite: 1, 3]. It is made for teachers and school staff to calculate marks, averages, grades, remarks, top subjects, and pass/fail results automatically[cite: 1, 3].
