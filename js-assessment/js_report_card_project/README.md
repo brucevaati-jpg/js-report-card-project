@@ -1,4 +1,4 @@
-## Class Report Card Generator
+## Class Report Card 
 
 **Author:** [BRUCE MUSAU
 ]
